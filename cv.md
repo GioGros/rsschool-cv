@@ -1,5 +1,5 @@
-# New Project #
-Start new project
+# Markdown&Git #
+Как я победил Markdown
 
 *Этот текст будет наклонным (курсив)*
 _Этот текст будет наклонным (курсив)_
