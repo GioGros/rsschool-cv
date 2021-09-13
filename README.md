@@ -1,2 +1,1 @@
-# rsschool-cv
-cv
+https://GioGros.github.io/rsschool-cv/cv
